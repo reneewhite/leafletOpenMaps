@@ -1,0 +1,7 @@
+{
+  "name": "leafMap",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
